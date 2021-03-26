@@ -1,0 +1,6 @@
+cvs
+wget
+lynx
+htop
+iftop
+pure-ftpd
